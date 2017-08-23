@@ -1,9 +1,8 @@
-[![bitHound Score](https://www.bithound.io/github/rajeshwarpatlolla/ionic-toast/badges/score.svg)](https://www.bithound.io/github/rajeshwarpatlolla/ionic-toast)
 
 ## Introduction:
 
 This is an `ionic-toast4` bower component which can be used with any Ionic framework's application.
-This repo has been forked from original `ionic-toast`
+This repo has been forked from original `ionic-toast` https://github.com/rajeshwarpatlolla/ionic-toast
 
 
 ## Prerequisites.
