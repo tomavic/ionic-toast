@@ -1,0 +1,30 @@
+{
+  "name": "ionic-toast4",
+  "version": "1.0.0",
+  "authors": [
+    "TOoma <hbasheer@live.com>"
+  ],
+  "description": "'ionic-toast4' bower component for ionic framework applications",
+  "main": [
+    "./dist/ionic-toast.bundle.min.js"
+  ],
+  "keywords": [
+    "ionic-toast",
+    "toast",
+    "ionic",
+    "toast for ionic",
+    "toast for ionic framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tomavic/ionic-toast",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ionic": ">=0.9.27"
+  }
+}

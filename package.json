@@ -1,0 +1,15 @@
+{
+  "name": "ionic-toast4",
+  "version": "1.0.0",
+  "description": "A toast for ionic framework",
+  "main": "./dist/ionic-toast.bundle.min.js",
+  "author": "https://github.com/tomavic, hbasheer@live.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-css2js": "^1.0.2",
+    "gulp-uglify": "^1.5.3"
+  }
+}
