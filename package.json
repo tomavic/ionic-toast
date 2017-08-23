@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A toast for ionic framework",
   "main": "./dist/ionic-toast.bundle.min.js",
-  "author": "https://github.com/tomavic, hbasheer@live.com",
+  "author": "TOomaa",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
