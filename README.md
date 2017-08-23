@@ -73,20 +73,6 @@ $scope.hideToast = function(){
 };
 ````
 
-
-## Screen Shots:
-
-Once you are successfully done with the above steps, you should be able to see the below screen shots.
-I have used three buttons here.
-
-The first screen shot shows only the buttons before clicking on them.
-Once you click on the button you should see the remaining screen shots.
-
-![ionic-toast buttons](https://lh3.googleusercontent.com/Fc4fUe9_k6DktTMoNrpih_z5sSNoZs9XHuiyn4AcClw=w320-h568-no "ionic-toast buttons")
-![ionic-toast top](https://lh3.googleusercontent.com/VDO5p9Z9KH6tC7zpTTk6mbkchKKBA4VYWpZuqLp9Jzc=w320-h568-no "ionic-toast top")
-![ionic-toast middle](https://lh3.googleusercontent.com/J7n3YRhRx68hIQmKLRJEKq6QfkxkAD7y_Jqc9eFDOtk=w320-h568-no "ionic-toast middle")
-![ionic-toast bottom](https://lh3.googleusercontent.com/MQyAFN9S8d8Pd05XALFcuhPiY_LNlKEIS9yWh-WKTh0=w320-h568-no "ionic-toast bottom")
-
 ## Versions:
 
 ### 1) v1.0.0
