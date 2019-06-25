@@ -78,7 +78,16 @@ $scope.hideToast = function(){
 ### 1) v1.0.0
 The whole `ionic-toast4` component functionality has been implemented, and it can be installed with the command `bower install ionic-toast4 --save` or via `npm install ionic-toast4 --save`
 
+## Credits
 
-## Contact:
-Email : hbasheer@live.com
+Made with ❤️ by Hatem. Follow me on [Twitter](https://twitter.com/toomavic) to get the latest news first! I will be happy to receive your feedback via [Email](hbasheer@live.com) ! I am always happy to hear your feedback.
+Enjoy!
+
+
+
+    ░░░░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 
+    ░░░░░░░░░░█░░░░░░▀█▄▀▄▀██████░░░▀█▄▀▄▀██████ 
+    ░░░░░░░░ ░░░░░░░░░░▀█▄█▄███▀░░░░░░▀█▄█▄███▀░
+
+   All copyrights reserved © 2019 | Enigma Tech Labs 
 
